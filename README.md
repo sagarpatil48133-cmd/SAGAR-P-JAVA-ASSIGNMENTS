@@ -1,1 +1,1 @@
-# SAGAR-P-JAVA-ASSIGNMENTS
+Write a Java code to store the population of India & China and print the population.
